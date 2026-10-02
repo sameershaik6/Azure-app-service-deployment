@@ -98,7 +98,7 @@ def get_layout(title, content):
 def home():
     home_content = """
     <div class="card">
-        <h1 style="color:#ffcc00;">Multi-Cloud DevOps Training</h1>
+        <h1 style="color:#ffcc00;">Multi-Cloud DevOps FDE Training</h1>
         <h2 style="color:#f87171;">By Veera Sir – Naresh IT</h2>
 
         <p>
